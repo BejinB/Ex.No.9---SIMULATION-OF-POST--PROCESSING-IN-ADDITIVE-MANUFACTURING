@@ -1,6 +1,5 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
-
-### DATE: 
+ 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -46,9 +45,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/ASHWINKUMAR2903/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119407186/1403b0b4-d361-4f2b-a149-e63dac3aa423)
+![image](https://github.com/ASHWINKUMAR2903/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119407186/07be906c-d0a1-4da1-ac6e-5f1bf949bf7e)
+![image](https://github.com/ASHWINKUMAR2903/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119407186/6efd715c-0eeb-4d3e-9d13-22bd1e1712e2)
 
-### Name:
-### Register Number:
+### Name: BEJIN B
+### Register Number: 212222230021
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
